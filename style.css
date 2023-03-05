@@ -1,0 +1,40 @@
+li{
+    list-style-type: none;
+    float:left;
+    background-color:lightslategray;
+    padding:15px;
+}
+
+li:hover{
+    background-color:rgb(91, 103, 116);
+}
+
+a{
+    text-decoration: none;
+    color:aliceblue
+}
+
+ul{
+    width: 100%;
+    height: 48px;
+    background-color: lightslategray;
+}
+
+#inicio{
+    height:100px;
+    width:100%;
+    position: absolute;
+    left:0px;
+    top:0px;
+    background-color:cornflowerblue;
+}
+
+#title{
+    font-size:30px;
+    margin-left:40px; 
+}
+
+h2 {
+    margin-top:135px;
+}
+
