@@ -1,0 +1,37 @@
+form {
+    width: 50%;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1em;
+    font: 1em;
+    border: 1px solid;
+}
+
+label {
+    font-weight: bold;
+    padding-bottom: 1em;
+    display: inline-block;
+
+}
+
+button {
+    background-color: white;
+    border: 1px solid cornflowerblue;
+    color: cornflowerblue;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer;
+}
+
+textarea {
+    font-family: Arial;
+}
